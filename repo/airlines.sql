@@ -30,7 +30,7 @@ CREATE TABLE airports (
     -> ('SYD', 'Sydney Kingsford Smith Airport', 'Sydney', 'Australia'),
     -> ('FRA', 'Frankfurt Airport', 'Frankfurt', 'Germany'),
     -> ('FRA', 'Frankfurt Airport', 'Frankfurt', 'Germany'),);
-ERROR 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 23
+
 mysql> INSERT INTO airports (airport_code, airport_name, city, country)
     -> VALUES
     -> ('DEL', 'Indira Gandhi International Airport', 'New Delhi', 'India'),
