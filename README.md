@@ -317,7 +317,5 @@ Through this project, the following concepts were explored:
 * Relational Database Design
 * ER Modeling
 
----
 
-##
 
